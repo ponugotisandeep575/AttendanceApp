@@ -26,3 +26,4 @@ Things to be implemented in the app to make it fully functional:
 You can directly contribute to the project to improve existing features or adding new features. Pull some requests!
 
 # AttendanceApp
+# AttendanceApp
